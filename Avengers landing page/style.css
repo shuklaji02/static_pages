@@ -10,7 +10,8 @@ html {
 
 body {
     background-image: url('bg-image.jpg');
-    background-size: cover;
+    background-size: 100% 110%;
+    background-attachment: fixed;
 }
 
 .container {
