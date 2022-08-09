@@ -79,3 +79,7 @@ p {
     color: grey;
     font-family: 'Roboto Slab', serif;
 }
+
+.explorebtn:hover{
+    box-shadow: 0 0 1000px rgba(0, 0, 0,1);
+}
